@@ -1,1 +1,2 @@
-"Settings to this project" 
+Settings to this project 
+Additional settings 
